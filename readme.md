@@ -1,14 +1,14 @@
 # Acme Router Program
 
-This is a CLI program build for acme inc. to select the most sutable driver
-to the best sutable route
+This is a CLI program built for acme inc. to select the most suitable driver
+to the best suitable route
 
 ## Requirements
 
 * python3
 
-Keep in mind that this CLI application has been build using linux/macos its possible
-that some errors could be encounter while using un Windows systems
+Keep in mind that this CLI application has been built using Linux/macOS its possible
+that some errors could be encountered while using a Windows systems
 
 ## How to use it
 
